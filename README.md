@@ -6,7 +6,7 @@
 
 `MODULES_ON = {'explosion' #爆裂魔法}`
 
-2.在此处/Reles下载语音资源包，并将语音资源放在**C:\Resources\explorion-voice\explosion**下（或者也可以在插件的**第57行，第127，134，141，148，155，162，169，176，183，190行**自己改文件路径---~~~问就是菜还懒，就这么凑活用吧~~）
+2.在此处/Releases下载语音资源包，并将语音资源放在**C:\Resources\explorion-voice\explosion**下（或者也可以在插件的**第57行，第127，134，141，148，155，162，169，176，183，190行**自己改文件路径---~~~问就是菜还懒，就这么凑活用吧~~）
 
 [Baidu 码=2279](https://pan.baidu.com/s/1Z755sE06_5YuO9nsW60oMw)	·	[Lanzou 码=9wzs](https://wwe.lanzous.com/b010cizah)	·	[Ali(待开启分享功能)]()
 ## 指令表
